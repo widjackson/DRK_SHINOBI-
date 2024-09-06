@@ -1,4 +1,7 @@
-<h1 align="center">👾 DRK_SHINOBI㊙️</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=👾+DRK_SHINOBI㊙️;WhatsApp+Multi-Device+Bot" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">A Cool Multi-Device WhatsApp bot under development</h3>
 
 <p align="center">
@@ -6,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drk-shinobi&label=Profile%20views&color=0e75b6&style=flat" alt="DRK_SHINOBI㊙️" />
+  <img src="https://komarev.com/ghpvc/?username=drk-shinobi&label=WhatsApp%20Bot%20Actif&color=0e75b6&style=flat" alt="WhatsApp Bot Actif" />
 </p>
 
 ---
@@ -18,8 +21,8 @@
 ### ⚙️ Installation Method
 
 #### Fork The Repo
-<a href="https://github.com/dark-s-ten/drk_shinobi/fork" target="_blank">
-  <img src="https://img.shields.io/badge/Fork%20Repo-GLOBAL_MD-blue?style=for-the-badge&logo=github"/>
+<a href="https://github.com/DRK-S-TEN/DRK_SHINOBI-/fork" target="_blank">
+  <img src="https://img.shields.io/badge/Fork%20Repo-DRK_SHINOBI㊙️-blue?style=for-the-badge&logo=github"/>
 </a>
 
 ---
@@ -33,31 +36,22 @@
 
 ---
 
+### 📢 Deployments
+
+- **Deploy to Render**  
+  <img src="https://img.shields.io/badge/Deploy%20to%20Render-blue?style=for-the-badge&logo=render"/>
+
+- **Deploy to Replit**  
+  <img src="https://img.shields.io/badge/Deploy%20to%20Replit-orange?style=for-the-badge&logo=replit"/>
+
+---
+
 ### 🌐 Contact & Support
 
 WhatsApp me at: **[50931461936](https://wa.me/50931461936)**
 
 ---
 
-### 📢 Deployments
-
-- Watch Tutorial For Hosting Panel
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube"/>
-  </a>
-
-- Bot Hosting Panel  
-  <a href="https://render.com">
-    <img src="https://img.shields.io/badge/Hosting%20Panel-blue?style=for-the-badge&logo=render"/>
-  </a>
-
-- Deploy to Replit  
-  <a href="https://replit.com">
-    <img src="https://img.shields.io/badge/Deploy%20to%20Replit-orange?style=for-the-badge&logo=replit"/>
-  </a>
-
----
-
-<h3 align="center">Keep an eye on the repo for updates!</h3>
-
-<h2 align="center"><marquee>👾 DRK_SHINOBI㊙️</marquee></h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=👾+DRK_SHINOBI㊙️+Bot;Powered+by+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
+</h2>
