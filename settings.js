@@ -3,9 +3,9 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: GlobalTechInfo" //ur yt chanel name
-global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
-global.location = "Pakistan, Karachi, Karachi" //ur location
+global.ytname = "YT: DRK_ST_Tech" //ur yt chanel name
+global.socialm = "GitHub: DRK-S-TEN" //ur github or insta name
+global.location = "America/Port-au-Prince" //ur location
 
 //new
 global.botname = '© DRK_SHINOBI' //ur bot name
@@ -19,7 +19,7 @@ global.botscript = 'https://github.com/DRK-S-TEN/DRK_SHINOBI-' //script link
 global.packname = "Sticker By"
 global.author = "DRK_SHINOBI🀄\n\n+50931461936"
 global.creator = "50931461936@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '!'
 global.premium = ["50931461936"] // Premium User
 
 //channel id
